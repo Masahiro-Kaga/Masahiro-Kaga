@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact **I have sense of humour such as Comedian!**
 
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/masa08736964" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="masa08736964" height="30" width="40" /></a>
