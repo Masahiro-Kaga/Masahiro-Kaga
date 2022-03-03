@@ -55,8 +55,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" width="50"
-      height="50" backgroundColor="white">
+<p align="left" width="100"
+      height="100">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
