@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masahiro-kaga&label=Profile%20views&color=0e75b6&style=flat" alt="masahiro-kaga" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masahiro-kaga" alt="masahiro-kaga" /></a> </p>
-
 - 🔭 I’m currently working on [Diary App](https://note-app-masamern.herokuapp.com/)
 
 - 🌱 I’m currently learning **React.js**
@@ -23,8 +21,8 @@
 <p align="left">
 <a href="https://twitter.com/masa08736964" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="masa08736964" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/masahiro-kaga-ab8604192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masahiro-kaga-ab8604192" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100005520977852" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100005520977852" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/masahiro_kaga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/masahiro_kaga/" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100005520977852" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100005520977852" height="30" width="40" /></a>
+<a href="https://instagram.com/masahiro_kaga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="masahiro_kaga/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,6 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masahiro-kaga&show_icons=true&locale=en&layout=compact" alt="masahiro-kaga" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masahiro-kaga&show_icons=true&locale=en" alt="masahiro-kaga" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masahiro-kaga&" alt="masahiro-kaga" /></p>
-
