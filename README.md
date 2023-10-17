@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences(resume) [https://drive.google.com/file/d/19pOEaeaXA7n35QiPhRGI-sjxjz2h2Odh/view?usp=sharing](https://drive.google.com/file/d/19pOEaeaXA7n35QiPhRGI-sjxjz2h2Odh/view?usp=sharing)
 
-- 🔭 I’m currently working on [Diary App with React](https://note-app-masamern.herokuapp.com/)
+- 🔭 I’m currently working on [Open AI app](https://github.com/Masahiro-Kaga/gpt-app)
 
 - 🌱 I’m currently learning **React.js and Next.js**
 
