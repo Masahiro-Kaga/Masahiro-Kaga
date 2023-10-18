@@ -6,20 +6,20 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=masahiro-kaga&label=Profile%20views&color=0e75b6&style=flat" alt="masahiro-kaga" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://masaportfolio.netlify.app/](https://masaportfolio.netlify.app/)
+- 👨‍💻 All of my projects are unveiled at [https://masaportfolio.netlify.app/](https://masaportfolio.netlify.app/)
 
-- 📄 Know about my experiences(resume) [https://drive.google.com/file/d/19pOEaeaXA7n35QiPhRGI-sjxjz2h2Odh/view?usp=sharing](https://drive.google.com/file/d/19pOEaeaXA7n35QiPhRGI-sjxjz2h2Odh/view?usp=sharing)
+- 📄 Know about my experiences(resume) [https://masaportfolio.netlify.app/contents/Resume_MasahiroKaga.jpg](https://masaportfolio.netlify.app/contents/Resume_MasahiroKaga.jpg)
 
 - 🔭 I’m currently working on [Open AI app](https://github.com/Masahiro-Kaga/gpt-app)
 
-- 🌱 I’m currently learning **React.js and Next.js**
+- 🌱 I am passionate about **React.js and Next.js**
 
 - 💬 Ask me about **React.js,Next.js**
 
 - 📫 How to reach me **charley.mk@icloud.com**
 
 
-- ⚡ Fun fact **I have sense of humour such as Comedian!**  
+- ⚡ Fun fact **I have a sense of humour such as a Comedian!**  
 
 <br />
 
@@ -52,7 +52,7 @@
   <a href="https://twitter.com/masa08736964" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      src="https://icons8.com/icon/fJp7hepMryiw/twitterx"
       alt="masa08736964"
       height="55"
       width="55"
