@@ -49,15 +49,6 @@
       height="55"
       width="55" /></a
   >　
-  <a href="https://twitter.com/masa08736964" target="blank"
-    ><img
-      align="center"
-      src="https://icons8.com/icon/fJp7hepMryiw/twitterx"
-      alt="masa08736964"
-      height="55"
-      width="55"
-      backgroundColor="white" /></a
-  >　
 </p>
 
 <br />
